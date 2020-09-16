@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class Lavaland : MonoBehaviour
 {
-    private int zLayer = 5;
+    private int zLayer = 3;
     
     private class Location
     {
